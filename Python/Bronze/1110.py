@@ -1,4 +1,4 @@
-N = int(input())
+N = int(input("입력: "))
 temp = N
 cycle = 1
 
